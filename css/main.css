@@ -5,15 +5,14 @@
  text-align: center;
  letter-spacing: 5px;
  width: 30%;
- margin-top: 20px;
  margin-left: auto;
  margin-right: auto;
- font-family: "Alata", sans-serif;
+ font-family: Alata, sans-serif;
  margin-top: 10rem;
 }
 
 body{
-  background-color: #DCC634;
+  background-color: #dcc634;
 }
 
 .second-text{
@@ -23,5 +22,5 @@ body{
   margin-top: 20px;
   margin-left: auto;
   margin-right: auto;
-  font-family: "Alata", sans-serif;
+  font-family: Alata, sans-serif;
 }
