@@ -1,0 +1,16 @@
+.text {
+ border-bottom: 5px solid #151515;
+ border-top: 5px solid #151515;
+ line-height: 2.25em;
+ text-align: center;
+ letter-spacing: 5px;
+ width: 30%;
+ margin-top: 20px;
+ margin-left: auto;
+ margin-right: auto;
+ font-size: 3rem;
+}
+
+body{
+  background-color: #DCC634;
+}
