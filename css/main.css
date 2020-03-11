@@ -1,21 +1,21 @@
 
 .text {
- border-bottom: 5px solid #151515;
- border-top: 5px solid #151515;
- text-align: center;
- letter-spacing: 5px;
- width: 30%;
- margin-left: auto;
- margin-right: auto;
- font-family: Alata, sans-serif;
- margin-top: 10rem;
+  border-bottom: 5px solid #151515;
+  border-top: 5px solid #151515;
+  text-align: center;
+  letter-spacing: 5px;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Alata, sans-serif;
+  margin-top: 10rem;
 }
 
-body{
+body {
   background-color: #dcc634;
 }
 
-.second-text{
+.second-text {
   text-align: center;
   letter-spacing: 5px;
   width: 30%;
