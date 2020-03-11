@@ -1,3 +1,5 @@
+
+
 .text {
  border-bottom: 5px solid #151515;
  border-top: 5px solid #151515;
@@ -9,8 +11,78 @@
  margin-left: auto;
  margin-right: auto;
  font-size: 3rem;
+ font-family: 'Alata', sans-serif;
+ margin-top: 10rem;
 }
 
 body{
   background-color: #DCC634;
+}
+
+.second-text{
+  line-height: 2.25em;
+  text-align: center;
+  letter-spacing: 5px;
+  width: 30%;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1rem;
+  font-family: 'Alata', sans-serif;
+}
+
+.dot{
+position: absolute;
+z-index: 5;
+border-radius: 50%;
+height: 40px;
+width: 40px;
+background-color: rgb(153,153,0);
+left: 150px;
+top: 125px;
+}
+
+.dot:nth-child(2){
+  left: 70rem;
+  top: 20rem;
+}
+
+.dot:nth-child(3){
+  left: 60rem;
+  top: 30rem;
+}
+
+.dot:nth-child(4){
+  left: 15rem;
+  top: 20rem;
+}
+
+.dot:nth-child(5){
+  left: 20rem;
+  top: 40rem;
+}
+
+.dot:nth-child(6){
+  left: 60rem;
+  top: 8rem;
+}
+
+.dot:nth-child(7){
+  left: 30rem;
+  top: 4rem;
+}
+
+.dot:nth-child(8){
+  left: 4rem;
+  top: 30rem;
+}
+
+.dot:nth-child(9){
+  left: 30rem;
+  top: 4rem;
+}
+
+.dot:nth-child(10){
+  left: 70rem;
+  top: 40rem;
 }
