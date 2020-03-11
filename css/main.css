@@ -1,9 +1,4 @@
 
-*, *::before, *::after {
-  box-sizing: inherit;
-}
-
-
 .text {
  border-bottom: 5px solid #151515;
  border-top: 5px solid #151515;
@@ -13,7 +8,7 @@
  margin-top: 20px;
  margin-left: auto;
  margin-right: auto;
- font-family: 'Alata', sans-serif;
+ font-family: "Alata", sans-serif;
  margin-top: 10rem;
 }
 
@@ -28,5 +23,5 @@ body{
   margin-top: 20px;
   margin-left: auto;
   margin-right: auto;
-  font-family: 'Alata', sans-serif;
+  font-family: "Alata", sans-serif;
 }
